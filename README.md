@@ -1,11 +1,8 @@
-![kosiarka_banner](assets/kosiarka_bg.png)
 # About "Kosiarka" ✨
+![screenshot](assets/screenshot.png)
+
 My old game about mowing the grass written with C++ and SDL library. The aim of the game is to mow the grass using as little fuel as possible. To make things more difficult, there are obstacles placed on the map, after driving over which the mower's blade becomes dull. For each level (except the last one), the player receives a certain amount of fuel to use, if he does not use all of it, the rest of the fuel is transferred to the next level, so that when the designated fuel runs out for a given level, you will be able to use this reserve. The game requires you to think ahead because of the final level the player is on his own - he doesn't get a single drop of fuel at the start, he has to complete the level with the fuel he has collected so far.
 
-![screenshot1](assets/screen1.png)
-![screenshot2](assets/screen2.png)
-![screenshot3](assets/screen3.png)
-![screenshot4](assets/screen4.png)
 
 # Game features 🕹️
 
