@@ -21,7 +21,7 @@ My old game about mowing the grass written with C++ and SDL library. The aim of 
 
 1) I came up with the idea to write a game when I was working abroad in England during the holidays. I worked with a nice gentleman who mowed lawns.
 
-2) The game took part in a competition organized by the Polish gamedev community - **warsztat.gd**. I don't remember what place I took in it, but I remember that the community accepted this idea very well and suggested ideas for the development of the game.
+2) The game took part in a competition organized by the Polish gamedev community - **warsztat.gd**. I don't remember what place I took in it, but I remember that the community accepted this idea very well and suggested ideas for the development of the game. [Link to archive](https://web.archive.org/web/20121021061224/http://warsztat.gd/projects/kosiarka/info)
 
 > [!NOTE]
 > Game works only on Microsoft Windows systems.
